@@ -3,7 +3,9 @@ I am a Computational Neuroscientist passionate about decoding the complexities o
 
 ### Tech Stack 🛠
 * **Languages**: Python, MATLAB
-* **Libraries & Frameworks**: NumPy, Matplotlib, Seaborn, SciPy, Pandas, Scikit-learn, PyTorch (Currently learning 🚀)
+* **Libraries & Frameworks**:
+  * Python: NumPy, Matplotlib, Seaborn, SciPy, Pandas, Scikit-learn, PyTorch (Currently learning 🚀)
+  * MATLAB: Computer vision toolbox, Deep learning toolbox
 * **Domains**: Reinforcement Learning, Computer Vision, Signal Processing, Dynamical Systems
 
 ### Research Interests:
