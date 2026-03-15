@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello
 I am a Computational Neuroscientist passionate about decoding the complexities of the brain through simulation and mathematical modelling.
 
 ### Methods & Tools
