@@ -9,5 +9,7 @@ I am a Computational Neuroscientist passionate about decoding the complexities o
 * **Domains**: Reinforcement Learning, Computer Vision, Signal Processing, Dynamical Systems
 
 ### Research Interests:
-* **Biomedical Modelling**: I build computational frameworks to simulate biological systems using differential equations, stochastic processes, and network dynamics.
+* **Biomedical Modelling**:
+  * I build computational frameworks to simulate biological systems using differential equations, stochastic processes, and network dynamics.
+  * I build RL agents using policy-free methods to simulate and compare how biological systems learn, decide, and adapt across different environments.
 * **Game Development**: I create serious games that improve human interaction, interpersonal skills, and relational skills.
