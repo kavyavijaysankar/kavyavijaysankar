@@ -1,15 +1,2 @@
 ### Hello
-I am a Computational Neuroscientist passionate about decoding the complexities of the brain through simulation and mathematical modelling.
-
-### Methods & Tools
-* **Languages**: Python, MATLAB
-* **Libraries & Frameworks**:
-  * Python: NumPy, Matplotlib, Seaborn, SciPy, Pandas, Scikit-learn, PyTorch (Currently learning 🚀)
-  * MATLAB: Computer vision toolbox, Deep learning toolbox
-* **Domains**: Reinforcement Learning, Computer Vision, Signal Processing, Dynamical Systems
-
-### Research Interests:
-* **Biomedical Modelling**:
-  * I build computational frameworks to simulate biological systems using differential equations, stochastic processes, and network dynamics.
-  * I build RL agents using policy-free methods to simulate and compare how biological systems learn, decide, and adapt across different environments.
-* **Game Development**: I create serious games that improve human interaction, interpersonal skills, and relational skills.
+I am a Computational Neuroscientist with expertise in mathematical modelling of neural systems, agent-based simulations, bio-inspired networks, and deep learning with computer vision. I work in Python and MATLAB.
